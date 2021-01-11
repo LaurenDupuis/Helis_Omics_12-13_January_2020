@@ -1,7 +1,7 @@
 # Gene Ontology Analysis Practical 
 ============================================================================================
 
-April, 2020
+January, 2021
 
 ## Practical prepared by Dr. Martina Summer-Kutmon, Dr. Lars Eijssen, and Dr. Lauren Dupuis
 -----------------------------------------------------------------------------------------------------------------------------------
