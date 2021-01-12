@@ -78,7 +78,7 @@ New Network - From selected nodes, all edges.
 •	A new network will be created only containing the largest connected subnetwork with 244 nodes and 1,665 edges.
 
 #### **Step 2: Investigate the network properties of the network**
-•	Go to “Tools → Network Analyzer → Network Analysis → Analyze Network...”
+•	Go to “Tools → Analyze Network”
 o	The network should be treated as an undirected network (protein-protein interactions, in general, do not have a direction)
 •	This tool will calculate all network properties like degree and betweenness for you.
 
