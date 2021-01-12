@@ -6,6 +6,7 @@ The data used for the tutorials is from the study of [Lu et al. 2010](https://ww
 
 The pre-processed data that we will use for the course can be downloaded [here](https://github.com/LaurenDupuis/Helis_Omics_12-13_January_2020/tree/main/Data).
 
+**If you are having problems with Java 8, you can [check here for instructions](https://pathvisio.github.io/faq#running-java-8)
 
 ## Introduction to Biological Pathways
 For this part of the course you will need to [download](https://pathvisio.github.io/downloads) the pathway drawing software [PathVisio](https://pathvisio.github.io/). Follow the Binary Installation instructions in the [Installation Guide](https://pathvisio.github.io/pages/installation_guide.html) for your operating system.
