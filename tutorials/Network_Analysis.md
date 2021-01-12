@@ -34,10 +34,15 @@ Now we can begin by importing the Cell Cycle Pathway as a network.
 > Some nodes may not be connected, so you could see subnetworks or unconnected nodes. 
 
 Now we are going to investigate which drugs are known to target the proteins in this pathway.
+You can download the Drugbank linkset to extend the network with from [here](https://ndownloader.figshare.com/files/21623682?private_link=32aae0822ffdd1f5660b). If you want to download other linksets, you can find them [here](https://cytargetlinker.github.io/pages/linksets.html).
+Download and unzip the linkset.
 •	Go to “Apps → CyTargetLinker → Extend network”
 •	Fill in the following settings: 
 
 ![Figure 3](../Images/Network_Tutorial/Extend_Network_Settings.png)
+
+Choose only the file that contains the linkset. When you click OK a dialog box appears where you can check which linkset you want to add
+![Figure 4](../Images/Network_Tutorial/linkset_file.png)
 
 •	Now the known drugs from DrugBank have been added – information about drug name, drug category or approval status can be found in the 
 node table.
@@ -60,7 +65,7 @@ for lung cancer treatment.  The identifiers and names of the drugs can be found 
 •	In Cytoscape, go to the Control Panel and select the STRING protein query (drop-down box left to search field) and paste the 408 gene 
 names in the query field 
 
-![Figure 4](../Images/Network_Tutorial/String_Query.png)
+![Figure 5](../Images/Network_Tutorial/String_Query.png)
 
 •	Click on the search icon.
 •	Cytoscape will create a network with 368 nodes and 1,678 edges
@@ -84,7 +89,7 @@ o	The network should be treated as an undirected network (protein-protein intera
 •	In the NetworkAnalyzer result dialog, click on “Visualize Parameters”. Select the node degree as node color gradient (Map node color 
 to → Select “Degree”) and the node betweenness as node size.
 
-![Figure 5](../Images/Network_Tutorial/Network_Analyzer_Visualize_Parameters.png)
+![Figure 6](../Images/Network_Tutorial/Network_Analyzer_Visualize_Parameters.png)
 
 > Take a look at the overall network visualization. Large nodes have a high betweenness and the redder the node, the higher 
 > the degree.
