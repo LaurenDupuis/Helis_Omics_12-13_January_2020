@@ -83,8 +83,9 @@ o	The network should be treated as an undirected network (protein-protein intera
 •	This tool will calculate all network properties like degree and betweenness for you.
 
 
-> Look at the “Node degree” and “Node betweenness” tab in Results panel of the Network Analyzer. How are node degree 
+> Look at the “Node degree Distribution” and “Betweenness by Degree” tab in Results panel of the Network Analyzer. How are node degree 
 > and betweenness distributed in this network? Do the distributions make sense? Are there any interesting observations?
+> Note that you can click the box on the plot titled "Interactive". This allows you to select specific points to view in the node table.
 
 #### **Step 3: Create visualization to show disease score and degree**
 •	In the NetworkAnalyzer result dialog, click on “Visualize Parameters”. Select the node degree as node color gradient (Map node color 
