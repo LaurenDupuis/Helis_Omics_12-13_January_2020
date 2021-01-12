@@ -39,11 +39,11 @@ Download and unzip the linkset.
 •	Go to “Apps → CyTargetLinker → Extend network”
 •	Fill in the following settings: 
 
-![Figure 3](../Images/Network_Tutorial/Extend_Network_Settings.png)
+![Figure 3](../Images/Network_Tutorial/Extend_Network_Settings.PNG)
 
 Choose only the file that contains the linkset. When you click OK a dialog box appears where you can check which linkset you want to add
 
-![Figure 4](../Images/Network_Tutorial/linkset_file.png)
+![Figure 4](../Images/Network_Tutorial/linkset_file.PNG)
 
 •	Now the known drugs from DrugBank have been added – information about drug name, drug category or approval status can be found in the 
 node table.
