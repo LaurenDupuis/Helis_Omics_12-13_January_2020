@@ -60,6 +60,9 @@ for lung cancer treatment.  The identifiers and names of the drugs can be found 
 > You can observe which genes are targeted by many drugs.
 
 
+**You can also try this step with microRNAs by choosing the [linkset you wish to use](https://cytargetlinker.github.io/pages/linksets.html). If you have data for microRNAs, you can also visualize it on these nodes.** 
+
+
 ----------------------------------------------------------------------------------------------------------------------
 
 ### Assignment 2: Build network for up-regulated lung cancer genes
@@ -129,7 +132,11 @@ analysis for relevant cancer genes.
 data from TCGA, and show staining of the protein in different samples. 
 
 
+### Assignment 3: Visualize your own data on a Network
 
+Now it's time to visualize your own data on a network. If you do not have any data, try it out with the [dataset we used for the pathway analysis](https://github.com/LaurenDupuis/Helis_Omics_12-13_January_2020/blob/main/Data/comp_LungCancer-Normal.txt).
+
+[This video](https://drive.google.com/file/d/1zV5WYWnaspLk-sHzm_-_03Wd-iouzBL8/view?usp=sharing) will guide you through the process. 
 
 
 
