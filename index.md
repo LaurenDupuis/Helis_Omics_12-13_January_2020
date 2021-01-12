@@ -4,6 +4,8 @@ Ths course is brought to you by the [Helis Academy](https://helisacademy.com/en)
 
 The data used for the tutorials is from the study of [Lu et al. 2010](https://www.ncbi.nlm.nih.gov/pubmed/20802022) and is freely available for download [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse19804). 
 
+The pre-processed data that we will use for the course can be downloaded [here](https://github.com/LaurenDupuis/Helis_Omics_12-13_January_2020/tree/main/Data).
+
 
 ## Introduction to Biological Pathways
 For this part of the course you will need to [download](https://pathvisio.github.io/downloads) the pathway drawing software [PathVisio](https://pathvisio.github.io/). Follow the Binary Installation instructions in the [Installation Guide](https://pathvisio.github.io/pages/installation_guide.html) for your operating system.
