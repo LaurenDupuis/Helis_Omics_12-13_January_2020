@@ -1,6 +1,6 @@
 # Helis Academy Omics Data Analysis Course 
 ### January 2021
-Ths course is brought to you by the [Helis Academy](https://helisacademy.com/en) and the Department of Bioinformatics - BiGCaT at Maastricht University.
+This course is brought to you by the [Helis Academy](https://helisacademy.com/en) and the Department of Bioinformatics - BiGCaT at Maastricht University.
 
 The data used for the tutorials is from the study of [Lu et al. 2010](https://www.ncbi.nlm.nih.gov/pubmed/20802022) and is freely available for download [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse19804). 
 
