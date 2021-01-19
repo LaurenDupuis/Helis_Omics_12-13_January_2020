@@ -8,37 +8,28 @@ The pre-processed data that we will use for the course can be downloaded [here](
 
 **If you are having problems with Java 8, you can [check here for instructions](https://pathvisio.github.io/faq#running-java-8)
 
+## Introduction to Experimental Design for Omics Analyses
+
+#### Lecture
+* **[Experimental design and data life cycle for omics data experiments: A short introduction](Presentations/Helis_data_acquisition_and_life_cycle_Ehrhart.pdf)** by Dr. Friederike Ehrhart
+
 ## Introduction to Biological Pathways
 For this part of the course you will need to [download](https://pathvisio.github.io/downloads) the pathway drawing software [PathVisio](https://pathvisio.github.io/). Follow the Binary Installation instructions in the [Installation Guide](https://pathvisio.github.io/pages/installation_guide.html) for your operating system.
 
-#### Lectures
-* **Introduction to Pathway Modeling** by Dr. Lauren Dupuis (slides prepared by Dr. Kristina Hanspers and Dr. Lauren Dupuis)
+#### Lecture
+* **[Introduction to Pathway Modeling and Analysis](Presentations/Introduction_to_Pathway_Modeling_Analysis_Dupuis.pdf)** by Dr. Lauren Dupuis (slides prepared by Dr. Kristina Hanspers and Dr. Lauren Dupuis)
 
 #### Tutorials
 * You will need to learn how to draw pathways using PathVisio. For extra help you can follow the [WikiPathways Academy](https://wikipathways.github.io/academy/) to get an interactive introduction to pathway drawing.
 * You are now ready to get started drawing your own pathways in PathVisio. Before you start drawing or editing pathways, **follow the [Getting Started Guide](https://pathvisio.github.io/tutorials/getting-started.html).** This guide will help you create a [WikiPathways](https://www.wikipathways.org/index.php/WikiPathways) account, install the [WikiPathways plugin](https://pathvisio.github.io/plugins/wikipathways.html) in PathVisio, and select the proper [BridgeDb](https://bridgedb.github.io/) mapping files.
 * Now you are ready to draw some simple pathways of your own. **[Try drawing these pathways](tutorials/Pathway_Drawing.md)**.
-
-
-## Introduction to Pathway Analysis
-
-#### Lectures
-* **Introduction to Pathway Analysis** by Dr. Lauren Dupuis (slides prepared by Dr. Martina Kutmon and Dr. Lauren Dupuis)
-
-#### Tutorials
 * **[This beginner's tutorial](tutorials/Pathway_Analysis.md) will give you a hands-on introduction** to pathway analysis in PathVisio.
-
-
-## Introduction to Gene Ontology
-
-#### Tutorials
-* Complete [this tutorial](tutorials/GO_Analysis.md) on GO Analysis using GOrilla
 
 
 ## Introduction to Biological Networks
 
-#### Lectures
-* **Introduction to Biological Networks** by Dr. Martina Summer-Kutmon
+#### Lecture
+* **[Introduction to Biological Networks](Presentations/20210113-HELIS-NetBio_Kutmon.pdf)** by Dr. Martina Summer-Kutmon
 
 #### Tutorials
 * Complete this [Network Analysis](tutorials/Network_Analysis.md) tutorial using Cytoscape.
